@@ -1,3 +1,3 @@
-# computer programmin 1 
+# computer programming 1 
 
 my projects for my computer programming class
